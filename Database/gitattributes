@@ -1,1 +1,3 @@
-*.sql linguist-detectable=true
+*.sql linguist-documentation=false
+*.sql linguist-detectable=tru
+Designer.cs linguist-generated=true.*
